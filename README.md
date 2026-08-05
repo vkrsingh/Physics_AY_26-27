@@ -1,4 +1,4 @@
-# AppliedPhysics_SEM-I (University of Mumbai)
+# First Year Engineering Engineering Physics (University of Mumbai)
 
 # Applied Physics Course Repository  
 
