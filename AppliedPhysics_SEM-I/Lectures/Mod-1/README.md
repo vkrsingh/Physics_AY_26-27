@@ -6,7 +6,7 @@ Welcome! This directory contains the presentation slides and lecture materials d
 
 ## 📌 Usage & Study Recommendations
 * **Reviewing Content:** The slides serve as a high-level summary and guide to the topics covered in lecture.
-* **Recommended Reading:** Students are strongly encouraged to consult the recommended textbooks, primary research papers, and references listed throughout the course syllabus and individual presentations.
+* **Recommended Reading:** Students are strongly encouraged to consult the recommended textbooks and references listed throughout the course syllabus and individual presentations.
 * **Deep Understanding:** Mastery of the concepts requires engaging directly with the foundational reference materials and working through relevant exercises, not relying solely on slide summaries.
 
 ---
