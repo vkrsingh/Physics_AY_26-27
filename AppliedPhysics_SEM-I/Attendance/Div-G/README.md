@@ -1,4 +1,4 @@
-# Attendance: FE AI&DS Div-E
+# Attendance: FE AI&DS Div-G
 ---
 
 **Class:** FE ECS, Division-G
