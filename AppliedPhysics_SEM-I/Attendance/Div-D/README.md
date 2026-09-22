@@ -1,7 +1,7 @@
 # Attendance: FE IT Div-D
 ---
 
-**Class:** FE IT, Division-G
+**Class:** FE IT, Division-D
 **Academic Year:** 2026–27
 ---
 
