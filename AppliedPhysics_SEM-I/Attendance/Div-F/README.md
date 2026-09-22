@@ -10,13 +10,13 @@
 ### Date: 21.09.2026
 
 **Absent Roll Numbers:**  
-
+Will be updated soon
 
 ### Date: 22.09.2026
 
 **Absent Roll Numbers:** 
 
-Will be updated soon
+
 
 ---
 
