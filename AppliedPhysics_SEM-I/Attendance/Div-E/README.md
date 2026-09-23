@@ -71,6 +71,12 @@ Roll No. 2, 32, 44
 
 ---
 
+### Date: 23.09.2026 | 12:20 PM – 1:20 PM
+
+**Absent Roll Numbers:**
+6 7 22 34 48 57 61
+---
+
 ## Attendance Record Guidelines
 
 The attendance record is maintained primarily to help students **monitor their attendance regularly**. Students are encouraged to report any discrepancy as soon as possible.
