@@ -10,7 +10,7 @@
 ### Date: 21.09.2026
 
 **Absent Roll Numbers:**  
-Will be updated soon
+1 3 4 10 16 41 44 47 51 53 56 59 62
 
 ### Date: 22.09.2026
 
