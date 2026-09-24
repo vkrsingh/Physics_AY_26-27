@@ -11,7 +11,7 @@ For the **He-Ne laser**, helium is commonly described as having **two important 
 
 These states are called **metastable** because transitions from these states to the helium ground state are strongly forbidden by quantum-mechanical selection rules. Therefore, helium atoms can remain in these excited states for a relatively long time.
 
-However, many introductory textbooks show **only the \(2^3S\) metastable state** because it is sufficient for explaining the basic working principle of the He-Ne laser.
+However, many introductory textbooks show **only the $(3S^2)$ metastable state** because it is sufficient for explaining the basic working principle of the He-Ne laser.
 
 ### Why do some books show only one?
 
@@ -19,12 +19,12 @@ The difference is mainly due to the **level of approximation used in the energy-
 
 | Treatment                          | Metastable states shown                     |
 | ---------------------------------- | ------------------------------------------- |
-| Simplified undergraduate treatment | Usually one important state: \(2^3S\)       |
-| More detailed treatment            | Two important states: \(2^3S\) and \(2^1S\) |
+| Simplified undergraduate treatment | Usually one important state: $(3S^2)$       |
+| More detailed treatment            | Two important states: $(3S^2)$ and $(2s^1)$ |
 
 Therefore, **both descriptions can be correct**, depending on the level of detail being considered.
 
-For a basic explanation of the He-Ne laser, the \(2^3S\) state is usually sufficient.
+For a basic explanation of the He-Ne laser, the $(3S^2)$ state is usually sufficient.
 
 ---
 
@@ -174,7 +174,7 @@ For quick revision:
 
 | Question                                  | Answer                                                                            |
 | ----------------------------------------- | --------------------------------------------------------------------------------- |
-| How many important He metastable states?  | Two: \(2^3S\) and \(2^1S\), although simplified diagrams often show only \(2^3S\) |
+| How many important He metastable states?  | Two: $(3S^2)$ and $(2s^1)$, although simplified diagrams often show only $(3S^2)$ |
 | What is the role of He?                   | Excitation and energy transfer                                                    |
 | What is the role of Ne?                   | Lasing medium                                                                     |
 | Which atom produces the laser radiation?  | **Neon**                                                                          |
@@ -207,4 +207,4 @@ Welcome! This directory contains the presentation slides and lecture materials d
 
 ---
 
-*If you have questions or notice any attribution issues, please contact the course instructor.*
+*If you have questions or notice any attribution issues, please contact me after lecture hours.*
