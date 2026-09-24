@@ -22,8 +22,6 @@
 **Absent Roll Numbers:** 
 1 3 4 10 16 19 37 41 44 47 51 53 56 59 61 
 
-
-
 ### Date: 24.09.2026 (10 - 11)
 
 **Absent Roll Numbers:** 
