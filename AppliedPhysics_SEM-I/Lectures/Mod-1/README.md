@@ -180,27 +180,8 @@ For quick revision:
 | Which atom produces the laser radiation?  | **Neon**                                                                          |
 | What produces the laser beam?             | **Stimulated emission**                                                           |
 | What is the role of spontaneous emission? | It can provide the initial photons that start the amplification process           |
-| Common He-Ne wavelength                   | \(632.8\,\mathrm{nm}\)                                                            |
+| Common He-Ne wavelength                   | (632.8 nm)                                                            |
 
-### Key Concept
-
-$$
-\boxed{
-\mathrm{Electrical\ discharge}
-\rightarrow
-\mathrm{He^*}
-\rightarrow
-\mathrm{Energy\ transfer}
-\rightarrow
-\mathrm{Ne^*}
-\rightarrow
-\mathrm{Population\ inversion}
-\rightarrow
-\mathrm{Stimulated\ emission}
-\rightarrow
-\mathrm{Laser\ beam}
-}
-$$
 
 
 
