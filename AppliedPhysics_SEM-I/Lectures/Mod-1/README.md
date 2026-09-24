@@ -6,8 +6,8 @@ This is a common source of confusion when studying the He-Ne laser.
 
 For the **He-Ne laser**, helium is commonly described as having **two important metastable states**:
 
-* \(2^3S\)
-* \(2^1S\)
+* \(3S^2\)
+* \(2s^1\)
 
 These states are called **metastable** because transitions from these states to the helium ground state are strongly forbidden by quantum-mechanical selection rules. Therefore, helium atoms can remain in these excited states for a relatively long time.
 
