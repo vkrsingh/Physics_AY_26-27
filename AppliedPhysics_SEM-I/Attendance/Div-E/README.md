@@ -77,6 +77,16 @@ Roll No. 2, 32, 44
 6 7 22 34 48 57 61
 ---
 
+## Time-Table
+
+Week-1: https://tsdcem-my.sharepoint.com/:x:/g/personal/tlp_tsdcem_ac_in/IQBIkneoTIqMTo1KvpGO8zOYAYM7TpFxrFLiNfDK4nTl00g?e=hIN0gN
+
+Week-2: https://tsdcem-my.sharepoint.com/:x:/g/personal/tlp_tsdcem_ac_in/IQD450Lt0axeSokwdklvbvaaAVFb97HjwxJp1LxbS1cbxks?e=zdbvEc
+
+Week-3: Vaccation
+
+Week-4: 
+
 ## Attendance Record Guidelines
 
 The attendance record is maintained primarily to help students **monitor their attendance regularly**. Students are encouraged to report any discrepancy as soon as possible.
