@@ -23,6 +23,12 @@
 **Absent Roll Numbers:** 
 1 2 4  9 13 14 19 22 36 43 46 53 58 60 
 
+### Date: 23.09.2026 (10 - 11)
+
+**Absent Roll Numbers:** 
+1 2 3 4 11 14 15 16 18 19 24 36 39 42 43 46 50 53 
+
+10 talking in the class
 ---
 
 ## Attendance Record Guidelines
