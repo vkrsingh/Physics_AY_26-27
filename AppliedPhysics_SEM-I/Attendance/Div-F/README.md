@@ -17,11 +17,17 @@
 **Absent Roll Numbers:** 
 1 10 16 26 38 41 44  48 51 53 59 
 
-### Date: 23.09.2026 (3 - 4 PM)
+### Date: 23.09.2026 (3 - 4)
 
 **Absent Roll Numbers:** 
 1 3 4 10 16 19 37 41 44 47 51 53 56 59 61 
 
+
+
+### Date: 24.09.2026 (10 - 11)
+
+**Absent Roll Numbers:** 
+3 10 41 44 47 48 51 53 59 
 ---
 
 ## Attendance Record Guidelines
