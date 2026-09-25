@@ -12,6 +12,8 @@
 **Absent Roll Numbers:**  
 7 9 11 14 21 22 30 31 39 46 53 55 58 
 
+* Roll No. 7 was present
+
 ### Date: 22.09.2026 (11:20 - 12:20)
 
 **Absent Roll Numbers:** 
