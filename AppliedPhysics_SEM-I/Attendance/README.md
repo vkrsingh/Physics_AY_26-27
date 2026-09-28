@@ -16,6 +16,16 @@
  **Note:** The attendance record will be maintained and updated periodically by the Class In-charge/concerned faculty.
 
 ---
+## Time-Table
+
+Week-1: https://tsdcem-my.sharepoint.com/:x:/g/personal/tlp_tsdcem_ac_in/IQBIkneoTIqMTo1KvpGO8zOYAYM7TpFxrFLiNfDK4nTl00g?e=hIN0gN
+
+Week-2: https://tsdcem-my.sharepoint.com/:x:/g/personal/tlp_tsdcem_ac_in/IQD450Lt0axeSokwdklvbvaaAVFb97HjwxJp1LxbS1cbxks?e=zdbvEc
+
+Week-3: Ganesha Festival Vaccation
+
+Week-4: https://tsdcem-my.sharepoint.com/:x:/g/personal/tlp_tsdcem_ac_in/IQDC9C-99L5LSakK-3W281kyAQI9Li59xOTl6xGD0lGSghk?rtime=Zw9hOjUd30g
+---
 
 ## Attendance Record Guidelines
 
