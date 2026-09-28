@@ -33,6 +33,22 @@
 10 talking in the class
 ---
 
+# Week 2
+
+### Date: 28.09.2026 (11:20 - 12:20)
+
+**Absent Roll Numbers:** 4 36 46 
+
+
+### Date: 30.09.2026 (4 - 5)
+
+**Absent Roll Numbers:** 
+
+### Date: 02.10.2026 (3 - 3)
+
+**Absent Roll Numbers:** 
+---
+
 ## Attendance Record Guidelines
 
 The attendance record is maintained primarily to help students **monitor their attendance regularly**. Students are encouraged to report any discrepancy as soon as possible.
