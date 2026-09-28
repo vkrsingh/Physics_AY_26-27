@@ -33,7 +33,8 @@
 ### Date: 28.09.2026 | 4:00 - 5:00
 
 **Absent Roll Numbers:** 45 48 51 53 
- 
+
+ * 41 reported for the first class today
 ---
 
 ## Attendance Record Guidelines
