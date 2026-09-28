@@ -40,12 +40,12 @@
 **Absent Roll Numbers:** 4 36 46 
 
 
-### Date: 30.09.2026 | 4 - 5 |
+### Date: 30.09.2026 | 4:00 - 5:00 |
 
 **Absent Roll Numbers:** 
 
 
-### Date: 02.10.2026 | 3 - 4 |
+### Date: 02.10.2026 | 3:00 - 4:00 |
 
 **Absent Roll Numbers:** 
 ---
