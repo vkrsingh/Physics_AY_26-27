@@ -70,12 +70,26 @@ Roll No. 2, 32, 44
 **No regular lectures.**
 
 ---
+# Week 4: Ganesh Festival Vacation
 
-### Date: 23.09.2026 | 12:20 PM – 1:20 PM
+### Date: 30.09.2026 | 12:20 PM – 1:20 PM
 
 **Absent Roll Numbers:**
 6 7 22 34 48 57 61
 ---
+
+# Week 5:
+
+### Date: 23.09.2026 | 11:20 PM – 12:20 PM
+
+**Absent Roll Numbers:**
+
+### Date: 01.10.2026 | 9:05 PM – 10:05 PM
+
+**Absent Roll Numbers:**
+
+---
+
 
 ## Attendance Record Guidelines
 
