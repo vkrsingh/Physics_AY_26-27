@@ -84,6 +84,10 @@ Roll No. 2, 32, 44
 
 **Absent Roll Numbers:**
 
+Div-E
+Date: 30.09.26 (11:20-12:20)
+4 6 11 19 29 50 
+
 ### Date: 01.10.2026 | 9:05 PM – 10:05 PM
 
 **Absent Roll Numbers:**
