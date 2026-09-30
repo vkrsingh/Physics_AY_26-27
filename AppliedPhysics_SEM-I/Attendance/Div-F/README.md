@@ -36,6 +36,11 @@
 
  * 41 reported for the first class today
 ---
+# Week 3
+
+### Date: 30.09.2026 | 12:20 - 1:20
+
+**Absent Roll Numbers:** 3 4 19 44 45 48 49 51 53 
 
 ## Attendance Record Guidelines
 
