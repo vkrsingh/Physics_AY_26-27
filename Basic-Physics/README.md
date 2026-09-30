@@ -24,8 +24,8 @@ The Maharashtra State Bureau of Textbook Production and Curriculum Research (Bal
 
 | Class | Resource | Link |
 |---|---|---|
-| Class XI | Physics Textbook | [Balbharati Textbooks](https://ebalbharati.in/) |
-| Class XII | Physics Textbook | [Balbharati Textbooks](https://ebalbharati.in/) |
+| Class XI | Physics Textbook | [Balbharati Textbooks](https://ebooks.ebalbharati.in/pdfs/1103020415.pdf) |
+| Class XII | Physics Textbook | [Balbharati Textbooks](https://ebooks.ebalbharati.in/pdfs/1203020415.pdf) |
 | Classes I–XII | Official e-book library | [eBalbharati Library](https://books.ebalbharati.in/ebook.aspx) |
 | Previous Editions | Textbook Archives | [Balbharati Archives](https://books.ebalbharati.in/archives/) |
 
