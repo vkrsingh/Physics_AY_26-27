@@ -35,12 +35,17 @@
 **Absent Roll Numbers:** 45 48 51 53 
 
  * 41 reported for the first class today
----
-# Week 3
 
 ### Date: 30.09.2026 | 12:20 - 1:20
 
 **Absent Roll Numbers:** 3 4 19 44 45 48 49 51 53 
+
+### Date: 02.10.2026 | 9:00 - 10:00 | Holiday
+
+---
+# Week 3
+
+
 
 ## Attendance Record Guidelines
 
