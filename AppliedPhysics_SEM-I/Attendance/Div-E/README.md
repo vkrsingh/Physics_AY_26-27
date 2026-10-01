@@ -70,7 +70,7 @@ Roll No. 2, 32, 44
 **No regular lectures.**
 
 ---
-# Week 4: Ganesh Festival Vacation
+# Week 4: 
 
 ### Date: 30.09.2026 | 12:20 PM – 1:20 PM
 
@@ -80,21 +80,29 @@ Roll No. 2, 32, 44
 
 # Week 5:
 
-### Date: 23.09.2026 | 11:20 PM – 12:20 PM
+### Date: 30.09.2026 | 11:20 PM – 12:20 PM
 
-**Absent Roll Numbers:**
-
-Div-E
-Date: 30.09.26 (11:20-12:20)
+**Absent Roll Numbers:** 
 4 6 11 19 29 50 
 
 ### Date: 01.10.2026 | 9:05 PM – 10:05 PM
 
 **Absent Roll Numbers:**
+2 6 9 10 12 34 35 43 53
 
 ---
 
+# Week 6:
 
+### Date: 07.10.2026 | 11:20 PM – 12:20 PM
+
+**Absent Roll Numbers:** 
+
+### Date: 08.10.2026 | 9:05 PM – 10:05 PM
+
+**Absent Roll Numbers:**
+
+---
 ## Attendance Record Guidelines
 
 The attendance record is maintained primarily to help students **monitor their attendance regularly**. Students are encouraged to report any discrepancy as soon as possible.
