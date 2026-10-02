@@ -11,11 +11,13 @@
 
 ### Date: 31.08.2026 | (Orientation)
 
-**Absent Roll Numbers:**  18 23 32 34 35 49 63
+**Absent Roll Numbers:**  
+18 23 32 34 35 49 63
 
 ### Date: 01.09.2026
 
-**Absent Roll Numbers:** 23 34 35 49 63
+**Absent Roll Numbers:** 
+23 34 35 49 63
 
 ### Date: 02.09.2026
 
@@ -65,16 +67,14 @@ Roll No. 2, 32, 44
 
 ---
 
-# Week 3: Ganesh Festival Vacation
-
-**No regular lectures.**
+# Week 3: Ganesh Festival Vacation | No regular lectures
 
 ---
 # Week 4: 
 
 ### Date: 23.09.2026 | 12:20 PM – 1:20 PM
 
-**Absent Roll Numbers:**
+**Absent Roll Numbers:** 
 6 7 22 34 48 57 61
 ---
 
@@ -82,8 +82,7 @@ Roll No. 2, 32, 44
 
 ### Date: 30.09.2026 | 11:20 PM – 12:20 PM
 
-**Absent Roll Numbers:** 
-4 6 11 19 29 50 
+**Absent Roll Numbers:**  4 6 11 19 29 50 
 
 ### Date: 01.10.2026 | 9:05 PM – 10:05 PM
 
