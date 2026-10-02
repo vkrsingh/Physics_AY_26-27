@@ -9,13 +9,13 @@
 
 # Week 1
 
-### Date: 31.08.2026
+### Date: 31.08.2026 | (Orientation)
 
-**Absent Roll Numbers:** —
+**Absent Roll Numbers:**  18 23 32 34 35 49 63
 
 ### Date: 01.09.2026
 
-**Absent Roll Numbers:** —
+**Absent Roll Numbers:** 23 34 35 49 63
 
 ### Date: 02.09.2026
 
