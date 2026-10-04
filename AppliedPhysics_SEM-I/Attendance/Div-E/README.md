@@ -72,7 +72,7 @@ Roll No. 2, 32, 44
 ---
 # Week 4: 
 
-### Date: 23.09.2026 | 11:20 PM – 12:20 PM
+### Date: 23.09.2026 | 12:20 PM – 1:20 PM
 
 **Absent Roll Numbers:** 
 6 7 22 34 48 57 61
