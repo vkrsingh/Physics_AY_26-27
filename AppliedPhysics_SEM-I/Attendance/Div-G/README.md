@@ -34,7 +34,17 @@ Roll: 9 19 55 56 58 61
 ### Date: 01.10.2026 | (2:00 - 3:00) | Adjusted with BEE lec
 Roll: 9 19 36 48 55 56 58 61 
 
+# Week 3
 
+### Date: 06.10.2026 (10:05 - 11:05)
+Roll:
+
+### Date: 08.10.2026 | (11:20 - 12:00)
+Roll:
+
+### Date: 09.10.2026 | (4:00 - 5:00) 
+Roll:
+---
 ## Attendance Record Guidelines
 
 The attendance record is maintained primarily to help students **monitor their attendance regularly**. Students are encouraged to report any discrepancy as soon as possible.
