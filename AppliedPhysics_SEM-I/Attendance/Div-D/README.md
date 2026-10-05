@@ -54,7 +54,7 @@
 
 ### Date: 05.10.2026 | 11:20 - 12:20 |
 
-**Absent Roll Numbers:** 
+**Absent Roll Numbers:** 1 4 22 33 36 38 43 63
 
 ### Date: 07.10.2026 | 4:00 - 5:00 |
 
