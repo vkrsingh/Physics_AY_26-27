@@ -45,8 +45,22 @@
 **Absent Roll Numbers:** 
 3 10 12 26 27 28 33 35 36 38 39 42 43 51 61 62 
 
+### ~~ Date: 02.10.2026 | 2:00 - 3:00 | Holiday ~~
 
-### ~~ Date: 02.10.2026 | 3:00 - 4:00 | Holiday ~~
+**Absent Roll Numbers:** 
+---
+
+# Week 3
+
+### Date: 05.10.2026 | 11:20 - 12:20 |
+
+**Absent Roll Numbers:** 
+
+### Date: 07.10.2026 | 4:00 - 5:00 |
+
+**Absent Roll Numbers:** 
+
+### ~~ Date: 08.10.2026 | 2:00 - 3:00 | Holiday ~~
 
 **Absent Roll Numbers:** 
 ---
