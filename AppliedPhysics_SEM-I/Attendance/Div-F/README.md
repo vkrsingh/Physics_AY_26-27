@@ -45,8 +45,22 @@
 ---
 # Week 3
 
+### Date: 05.10.2026 | (4:00 - 5:00)
+
+**Absent Roll Numbers:** 
 
 
+### Date: 08.10.2026 | (12:20 - 1:20)
+
+**Absent Roll Numbers:** 
+
+
+### Date: 09.10.2026 | (9:00 - 10:00)
+
+**Absent Roll Numbers:** 
+
+
+---
 ## Attendance Record Guidelines
 
 The attendance record is maintained primarily to help students **monitor their attendance regularly**. Students are encouraged to report any discrepancy as soon as possible.
