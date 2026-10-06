@@ -93,9 +93,9 @@ Roll No. 2, 32, 44
 
 # Week 6:
 
-### Date: 07.10.2026 | 11:20 PM – 12:20 PM
+### Date: 06.10.2026 | 11:20 PM – 12:20 PM
 
-**Absent Roll Numbers:** 
+**Absent Roll Numbers:** 34
 
 ### Date: 08.10.2026 | 9:05 PM – 10:05 PM
 
