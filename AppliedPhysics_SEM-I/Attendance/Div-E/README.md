@@ -97,10 +97,9 @@ Roll No. 2, 32, 44
 
 **Absent Roll Numbers:** 34
 
-### Date: 08.10.2026 | 9:05 PM – 10:05 PM
+### Date: 07.10.2026 | 9:05 PM – 10:05 PM
 
-**Absent Roll Numbers:**
-
+**Absent Roll Numbers:** 2 9 10  44 49 53 58 59 60 62 
 ---
 ## Attendance Record Guidelines
 
