@@ -57,7 +57,7 @@
 ### Date: 09.10.2026 | (9:00 - 10:00)
 
 **Absent Roll Numbers:** 
-
+3 4 8 26 34 36 45 55 
 
 ---
 ## Attendance Record Guidelines
