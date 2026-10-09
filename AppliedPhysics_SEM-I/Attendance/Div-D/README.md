@@ -60,9 +60,9 @@
 
 **Absent Roll Numbers:** 2 4 5 6 7 9 11 16 17 19 21 22 24 25 26 28 30 31 34 35 36 41 42 43 44 50 54 55 59 60 61 62 63
 
-### ~~ Date: 08.10.2026 | 2:00 - 3:00 | Holiday ~~
+### ~~ Date: 09.10.2026 | (2:00 - 3:00) |
 
-**Absent Roll Numbers:** 
+**Absent Roll Numbers:** 14 15 16 19 20 21 22 24 33 34 42 50 60 
 ---
 
 ## Attendance Record Guidelines
