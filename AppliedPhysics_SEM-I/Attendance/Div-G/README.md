@@ -42,7 +42,7 @@ Roll: 5 9 19 32 34 39 57 60 61
 ### Date: 08.10.2026 | (10:05 - 11:05)
 Roll: 12 26 31 32 33 35 45 60 61
 
-### Date: 09.10.2026 | (4:00 - 5:00) 
+### Date: 09.10.2026 | (4:00 - 5:00) | BEE Lec. Compensation against 01.10.2026 Lec
 Roll:
 ---
 ## Attendance Record Guidelines
