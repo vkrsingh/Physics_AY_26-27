@@ -64,6 +64,13 @@
 
 **Absent Roll Numbers:** 14 15 16 19 20 21 22 24 33 34 42 50 60 
 ---
+# Week 4
+
+### Date: 12.10.2026 | 11:20 - 12:20 |
+
+**Absent Roll Numbers:** 1 11 13 19 21 22 25 26 30 32 37 39 40 42 43 45 49 55 59 60 63
+
+
 
 ## Attendance Record Guidelines
 
