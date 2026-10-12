@@ -70,7 +70,7 @@
 
 **Absent Roll Numbers:** 1 11 13 19 21 22 25 26 30 32 37 39 40 42 43 45 49 55 59 60 63
 
-
+Roll No. 10: Trouble maker
 
 ## Attendance Record Guidelines
 
