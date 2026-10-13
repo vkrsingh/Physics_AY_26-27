@@ -94,7 +94,6 @@ Roll No. 2, 32, 44
 # Week 6:
 
 ### Date: 06.10.2026 | 11:20 PM – 12:20 PM
-
 **Absent Roll Numbers:** 34
 
 ### Date: 07.10.2026 | 11:20 PM – 12:20 PM 
@@ -103,6 +102,17 @@ Roll No. 2, 32, 44
 ### Date: 07.10.2026 | 12:20 PM – 1:20 PM 
 **Absent Roll Numbers:** 2 9 10  44 49 53 58 59 60 62 
 ---
+# Week 5: 
+
+### Date: 13.10.2026 | (11:20 – 12:20)
+**Absent Roll Numbers:** 
+
+### Date: 07.10.2026 | 12:20 PM – 1:20 PM 
+**Absent Roll Numbers:** 
+
+---
+
+
 ## Attendance Record Guidelines
 
 The attendance record is maintained primarily to help students **monitor their attendance regularly**. Students are encouraged to report any discrepancy as soon as possible.
