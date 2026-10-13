@@ -105,7 +105,7 @@ Roll No. 2, 32, 44
 # Week 5: 
 
 ### Date: 13.10.2026 | (11:20 – 12:20)
-**Absent Roll Numbers:** 
+**Absent Roll Numbers:** 4 5 7 9 10 11 12 13 15 18 19 20 21 27 29 32 34 44 46 48 49 53 56 57 59 60 61 62 
 
 ### Date: 07.10.2026 | 12:20 PM – 1:20 PM 
 **Absent Roll Numbers:** 
