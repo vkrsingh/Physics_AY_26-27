@@ -77,6 +77,11 @@ Roll No. 10: Trouble maker
 **Present Roll Numbers:** 19 23 34 36 47 37 29 56 28 53 46 58 22 18 11 9 31 62 20 40 52 17
 ## Attendance Record Guidelines
 
+
+### ~~ Date: 09.10.2026 | (2:00 - 3:00) |
+
+**Absent Roll Numbers:** 1 4 7 14 15 16 18 24 25 26 30 31 35 37 42 43 46 50 53 55 61 63
+
 The attendance record is maintained primarily to help students **monitor their attendance regularly**. Students are encouraged to report any discrepancy as soon as possible.
 
 ### For Attendance-related Queries
