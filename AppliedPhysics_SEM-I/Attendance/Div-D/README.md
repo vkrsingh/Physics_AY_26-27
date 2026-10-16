@@ -78,7 +78,7 @@ Roll No. 10: Trouble maker
 ## Attendance Record Guidelines
 
 
-### ~~ Date: 09.10.2026 | (2:00 - 3:00) |
+### ~~ Date: 16.10.2026 | (2:00 - 3:00) |
 
 **Absent Roll Numbers:** 1 4 7 14 15 16 18 24 25 26 30 31 35 37 42 43 46 50 53 55 61 63
 
