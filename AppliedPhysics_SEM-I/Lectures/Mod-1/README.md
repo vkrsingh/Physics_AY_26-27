@@ -1,3 +1,7 @@
+Video Lecture: 
+LASER: https://www.youtube.com/watch?v=Xy67j-KZytY
+---
+
 # He-Ne Gas Laser: Metastable States and Lasing Action
 
 ## 1. Does Helium have one or two metastable states?
