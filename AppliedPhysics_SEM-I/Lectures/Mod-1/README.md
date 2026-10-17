@@ -1,5 +1,8 @@
 Video Lecture: 
 LASER: https://www.youtube.com/watch?v=Xy67j-KZytY
+
+LASER & Fiber Optics Complete Play List
+https://www.youtube.com/watch?v=Va17OKaktdg&list=PL1KnbHRWngxGzwvw_9GG1oEiaA3N2KPIq&index=6
 ---
 
 # He-Ne Gas Laser: Metastable States and Lasing Action
