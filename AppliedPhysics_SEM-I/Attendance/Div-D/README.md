@@ -74,12 +74,21 @@ Roll No. 10: Trouble maker
 ### Date: 14.10.2026 | 11:20 - 12:20 |
 **Present Roll Numbers:** 9, 11, 17, 18, 19, 20, 22, 23, 28, 29, 31, 34, 36, 37, 40, 46, 47, 52, 53, 56, 58, 62
 
-### ~~ Date: 16.10.2026 | (2:00 - 3:00) |
+### Date: 16.10.2026 | (2:00 - 3:00) |
 **Absent Roll Numbers:** 1 4 7 14 15 16 18 24 25 26 30 31 35 37 42 43 46 50 53 55 61 63
 ---
 
-
 ## Attendance Record Guidelines
+
+# Week 5 | IAT-I: Examination Week
+
+### Date: 23.10.2026 | (2:00 - 3:00) |
+
+**Absent Roll Numbers:**
+
+---
+
+
 
 The attendance record is maintained primarily to help students **monitor their attendance regularly**. Students are encouraged to report any discrepancy as soon as possible.
 
