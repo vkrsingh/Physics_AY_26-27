@@ -54,8 +54,14 @@ Roll: 6 16 32 51 57
 ### Date: 15.10.2026 | (11:20 - 12:20)
 Roll: 2 9 15 17 27 32 38 45 55 57 58 60 61 
 
-### Date: 16.10.2026 | (4:00 - 5:00) 
-Roll:
+### Date: 16.10.2026 | (4:00 - 5:00) | Given to BEEE Lecture.
+Roll: 
+---
+
+# Week 5
+
+### Date: 23.10.2026 | (4:00 - 5:00) | Given to BEEE Lecture.
+Roll: 
 
 ---
 ## Attendance Record Guidelines
