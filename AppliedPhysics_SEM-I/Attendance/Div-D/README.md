@@ -84,7 +84,7 @@ Roll No. 10: Trouble maker
 
 ### Date: 23.10.2026 | (2:00 - 3:00) |
 
-**Absent Roll Numbers:**
+**Absent Roll Numbers:** 4 9 24 39 42 50 58 
 
 ---
 
