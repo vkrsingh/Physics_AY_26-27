@@ -72,11 +72,10 @@ Present Roll no.: 2, 6, 9, 11, 12, 14, 15, 16, 20, 22, 24, 27, 28, 29, 30, 32, 3
 ### Date: 16.10.2026 | (9:05 - 10:05)
 Absent Roll no.: 3 4 19 25 26 36 42 44 45 46 48 51 53 56 57 
 
-
 # Week 5 | IAT-I Exam Week
 
-
-
+### Date: 23.10.2026 | (9:05 - 10:05)
+Absent Roll no.: 9 19 26 35 42 49 
 ---
 ## Attendance Record Guidelines
 
