@@ -1,7 +1,7 @@
 # Course Catch-Up & External References
 To assist students who were absent or need revision on relevant topic, the following external video reference covers the core concepts discussed in class:
 
-- Gradient, Divergence and Curl of a vector field:
+### Gradient, Divergence and Curl of a vector field:
 
 1. Calculating Gradient & Divergence: https://www.youtube.com/watch?v=7L2cxY8CQdk&list=PLTBqohhFNBE_fZu9cpbluJAq2yECyV8ZL&index=7
 
