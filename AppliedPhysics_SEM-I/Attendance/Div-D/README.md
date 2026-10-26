@@ -82,9 +82,16 @@ Roll No. 10: Trouble maker
 
 # Week 5 | IAT-I: Examination Week
 
-### Date: 23.10.2026 | (2:00 - 3:00) |
+### Date: 23.10.2026 | (2:00 - 3:00) 
 
 **Absent Roll Numbers:** 4 9 24 39 42 50 58 
+
+
+# Week 6 
+
+### Date: 26.10.2026 | (11:20 - 12:20 ) 
+
+**Absent Roll Numbers:** 2 11 19 22 34
 
 ---
 
