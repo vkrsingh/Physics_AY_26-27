@@ -76,6 +76,13 @@ Absent Roll no.: 3 4 19 25 26 36 42 44 45 46 48 51 53 56 57
 
 ### Date: 23.10.2026 | (9:05 - 10:05)
 Absent Roll no.: 9 19 26 35 42 49 
+
+# Week 6 
+
+### Date: 26.10.2026 | (11:20 - 12:20)
+Absent Roll no.: 1 3 8 21 28 44 45 48 55 56 57 
+IAT-paper Not solved: 34 46 52 30 35 29 18 11 25 23 16 15 07 22 
+
 ---
 ## Attendance Record Guidelines
 
