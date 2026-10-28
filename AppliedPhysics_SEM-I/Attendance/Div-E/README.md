@@ -109,15 +109,17 @@ Roll No. 2, 32, 44
 
 ### Date: 14.10.2026 | 12:20 PM – 1:20 PM 
 **Absent Roll Numbers:** 5 8 9 10 15 24 25 27 29 32 34 44 48 49 53 54 60 62
-
 ---
-
 # Week 6: IAT-I Exam Week
-
 ---
+# Week 7:
 
-### Date: 27.10.2026 | 11:20 PM – 1:20 PM 
+### Date: 27.10.2026 | 11:20 PM – 12:20 PM 
 **Absent Roll Numbers:** 3 25 28 32 33 37 59
+
+
+### Date: 27.10.2026 | 12:20 PM – 1:20 PM 
+**Absent Roll Numbers:** 3 6 11 28 29 
 
 ## Attendance Record Guidelines
 
