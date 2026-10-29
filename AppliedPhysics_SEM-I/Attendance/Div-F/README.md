@@ -59,7 +59,6 @@
 **Absent Roll Numbers:** 
 3 4 8 26 34 36 45 55 
 
-
 # Week 4
 
 ### Date: 12.10.2026 | (12:20 - 1:20)
@@ -81,10 +80,11 @@ Absent Roll no.: 9 19 26 35 42 49
 
 ### Date: 26.10.2026 | (11:20 - 12:20)
 Absent Roll no.: 1 3 8 21 28 44 45 48 55 56 57 
-
-Assignment4 Not Solved: 49 36 53 52 4 34 
+Assignment-4 Not Solved: 49 36 53 52 4 34 
 IAT-paper Not solved: 34 46 52 30 35 29 18 11 25 23 16 15 07 22 
 
+### Date: 26.10.2026 | (2:00 - 3:00)
+Absent Roll no.: 1 3 8 10 19 21 24 25 28 29 33 35 36 44 45 48 55 56 
 ---
 ## Attendance Record Guidelines
 
