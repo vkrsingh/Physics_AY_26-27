@@ -75,7 +75,9 @@ Roll: 5 39 42 48  57 58 59
 2 23 26 34 52 57 59 61 
 
 ### Date: 28.10.2026 | (3:00 - 4:00) 
-21 57 58 51 61 
+21 51 57 58 61 
+
+---
 ## Attendance Record Guidelines
 
 The attendance record is maintained primarily to help students **monitor their attendance regularly**. Students are encouraged to report any discrepancy as soon as possible.
