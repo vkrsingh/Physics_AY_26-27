@@ -93,10 +93,14 @@ Roll No. 10: Trouble maker
 **Absent Roll Numbers:** 2 11 19 22 34
 
 ### Date: 28.10.2026 | (11:20 - 12:20 ) 
-**Absent Roll Numbers:** 4 6 7 9  16 19 24 25 26 27 28 30 32 35 39 40 42 43 46 50 
+**Absent Roll Numbers:** 4 6 7 9  16 24 25 26 27 28 30 32 35 39 40 42 43 46 50 
 
-Trouble Makers: 33 31 6162 38 22 55 59
+Trouble Makers: 33 31 61 62 38 22 55 59
 
+### Date: 30.10.2026 | (2:00 - 3:00 ) 
+**Absent Roll Numbers:** 4 24 32 39 45 50
+
+Trouble Maker: 42 10 12
 ---
 
 
