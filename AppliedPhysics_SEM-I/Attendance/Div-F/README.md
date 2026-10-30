@@ -85,7 +85,13 @@ IAT-paper Not solved: 34 46 52 30 35 29 18 11 25 23 16 15 07 22
 
 ### Date: 26.10.2026 | (2:00 - 3:00)
 Absent Roll no.: 1 3 8 10 19 21 24 25 28 29 33 35 36 44 45 48 55 56 
+
+### Date: 26.10.2026 | (2:00 - 3:00)
+Absent Roll no.: 3 4 6 25 28 31 40 44 45 55 56 57 
+
 ---
+
+
 ## Attendance Record Guidelines
 
 The attendance record is maintained primarily to help students **monitor their attendance regularly**. Students are encouraged to report any discrepancy as soon as possible.
