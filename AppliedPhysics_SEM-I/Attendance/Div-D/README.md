@@ -99,8 +99,21 @@ Trouble Makers: 33 31 61 62 38 22 55 59
 
 ### Date: 30.10.2026 | (2:00 - 3:00 ) 
 **Absent Roll Numbers:** 4 24 32 39 45 50
-
 Trouble Maker: 42 10 12
+
+### Date: 31.10.2026 | (11:00 - 12:30 ) 
+**Absent Roll Numbers:** 3 4 19 25 26 36 42 44 45 46 48 51 53 56 57 (TBC)
+
+# Week 6 
+
+### Date: 2.11.2026 | (11:20 - 12:20 ) 
+**Absent Roll Numbers:** 2 19 22 25 30 34 43
+
+### Date: 4.11.2026 | (11:20 - 12:20 ) 
+**Absent Roll Numbers:** 
+
+### Date: 6.10.2026 | (2:00 - 3:00 ) 
+**Absent Roll Numbers:**
 ---
 
 
