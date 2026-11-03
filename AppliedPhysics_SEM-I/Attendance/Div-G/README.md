@@ -79,8 +79,20 @@ Roll: 5 39 42 48  57 58 59
 
 ### Date: 30.10.2026 | (3:00 - 4:00) 
 4 5 17 18 19 21 27 29 31 32 33 37 38 43 49 55 56 57 60 61  
-
 ---
+
+# Week 7
+
+### Date: 3.11.2026 | (11:20 - 12:20) 
+3 6 8 10 11 12 15 16 17 28 29 30 45 54 59 62 
+
+### Date: 3.10.2026 | (12:20 - 1:20) 
+3 6 8 10 11 12 15 16 17 28 29 30 45 54 59 62 
+
+### Date: 4.11.2026 |  (12:20 - 1:20)
+
+
+
 ## Attendance Record Guidelines
 
 The attendance record is maintained primarily to help students **monitor their attendance regularly**. Students are encouraged to report any discrepancy as soon as possible.
