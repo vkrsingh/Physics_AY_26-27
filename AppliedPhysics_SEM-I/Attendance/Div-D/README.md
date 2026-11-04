@@ -109,8 +109,7 @@ Trouble Maker: 42 10 12
 ### Date: 2.11.2026 | (11:20 - 12:20 ) 
 **Absent Roll Numbers:** 2 19 22 25 30 34 43
 
-### Date: 4.11.2026 | (11:20 - 12:20 ) 
-**Absent Roll Numbers:** 
+### Date: 4.11.2026 | (11:20 - 12:20 ) | Given to AM-I (due to Medical leave)
 
 ### Date: 6.10.2026 | (2:00 - 3:00 ) 
 **Absent Roll Numbers:**
