@@ -121,6 +121,19 @@ Roll No. 2, 32, 44
 ### Date: 28.10.2026 | 12:20 PM – 1:20 PM 
 **Absent Roll Numbers:** 3 6 11 28 29 
 
+# Week 8: 
+
+### Date: 3.11.2026 | (11:20 - 12:20) | Took extra Lec of EM
+**Absent Roll Numbers:** 3 6 8 10 11 12 15 16 17 28 29 30 45 54 59 62 
+
+### Date: 3.11.2026 | (12:20 - 1:20) 
+**Absent Roll Numbers:** 3 6 8 10 11 12 15 16 17 28 29 30 45 54 59 62 
+
+### Date: 4.11.2026 |  (12:20 - 1:20) 
+Given to CP due to medical leave
+
+---
+
 ## Attendance Record Guidelines
 
 The attendance record is maintained primarily to help students **monitor their attendance regularly**. Students are encouraged to report any discrepancy as soon as possible.
