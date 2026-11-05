@@ -91,15 +91,14 @@ Absent Roll no.: 3 4 6 25 28 31 40 44 45 55 56 57
 
 # Week 7
 
-### Date: 26.10.2026 | (12:20 - 1:20)
+### Date: 2.11.2026 | (12:20 - 1:20)
 Absent Roll no.: 1 8 32 39 45 49 57  
 
-
+### Date: 5.11.2026 | (2:00 - 3:00)
+Absent Roll no.:3 4 8 19 21 24 25 26 29 30 31 32 33 35 37 39 41 44 45 46 48 52 56 57 59 60 
 
 
 ---
-
-
 ## Attendance Record Guidelines
 
 The attendance record is maintained primarily to help students **monitor their attendance regularly**. Students are encouraged to report any discrepancy as soon as possible.
