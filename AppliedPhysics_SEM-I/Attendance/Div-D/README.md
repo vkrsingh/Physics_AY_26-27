@@ -109,13 +109,34 @@ Trouble Maker: 42 10 12
 ### Date: 2.11.2026 | (11:20 - 12:20 ) 
 **Absent Roll Numbers:** 2 19 22 25 30 34 43
 
-### Date: 4.11.2026 | (11:20 - 12:20 ) | Given to AM-I (due to Medical leave)
+### Date: 4.11.2026 | (4:00 - 5:00 ) | Given to AM-I (due to Medical leave)
+
+### Date: 6.10.2026 | (11:00 - 12:00 ) | Extra Lec. taken from AC
+**Absent Roll Numbers:** 9 19 21 22 28 30 35 36 39 42 43 46 53 54 55 56 
+
+### Date: 6.10.2026 | (2:00 - 3:00 ) | Lec. Cancelled  due to Half day Schedule
+
+# Week 7 | Mon - Wed: Diwali vacation week
+
+### Date: 13.10.2026 | (2:00 - 3:00 ) 
+**Absent Roll Numbers:**
+
+# Week 8
+
+### Date: 16.11.2026 | (11:20 - 12:20 ) 
+**Absent Roll Numbers:** 
+
+### Date: 18.11.2026 | (4:00 - 5:00) 
+**Absent Roll Numbers:** 
+
+
+### Date: 20.10.2026 | (11:00 - 12:00 ) | Extra Lec. taken from AC
+**Absent Roll Numbers:** 
 
 ### Date: 6.10.2026 | (2:00 - 3:00 ) 
-**Absent Roll Numbers:**
+**Absent Roll Numbers:** 
+
 ---
-
-
 
 The attendance record is maintained primarily to help students **monitor their attendance regularly**. Students are encouraged to report any discrepancy as soon as possible.
 
