@@ -93,7 +93,7 @@ Roll: 5 39 42 48  57 58 59
 4 6 11 12 26 32 37 42 48 49 52 53 54 57 
 Trouble Maker: 27 
 
-### Date: 6.10.2026 | (3:00 - 4:00) 
+### Date: 6.10.2026 | (3:00 - 4:00) | Lec. cancelled due to half day schedule
 
 ## Attendance Record Guidelines
 
