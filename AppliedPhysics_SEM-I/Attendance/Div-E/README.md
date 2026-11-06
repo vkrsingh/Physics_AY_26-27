@@ -110,18 +110,17 @@ Roll No. 2, 32, 44
 ### Date: 14.10.2026 | 12:20 PM – 1:20 PM 
 **Absent Roll Numbers:** 5 8 9 10 15 24 25 27 29 32 34 44 48 49 53 54 60 62
 ---
-# Week 6: IAT-I Exam Week
+# Week 8: IAT-I Exam Week
 ---
-# Week 7:
+# Week 9:
 
 ### Date: 27.10.2026 | 11:20 PM – 12:20 PM 
 **Absent Roll Numbers:** 3 25 28 32 33 37 59
 
-
 ### Date: 28.10.2026 | 12:20 PM – 1:20 PM 
 **Absent Roll Numbers:** 3 6 11 28 29 
 
-# Week 8: 
+# Week 10: 
 
 ### Date: 3.11.2026 | (11:20 - 12:20) | Took extra Lec of EM
 **Absent Roll Numbers:** 3 6 8 10 11 12 15 16 28 29 30 45 54 59 62 
@@ -131,6 +130,15 @@ Roll No. 2, 32, 44
 
 ### Date: 4.11.2026 |  (12:20 - 1:20) 
 Given to CP due to medical leave
+
+# Week 11 | Diwali Vacation
+
+# Week 12: 
+### Date: 17.11.2026 | (12:20 - 1:20) | EM compensation of lec on 3.11.2026 
+**Absent Roll Numbers:**
+
+### Date: 18.11.2026 |  (12:20 - 1:20) 
+
 
 ---
 
