@@ -3,10 +3,11 @@ To assist students who were absent or need revision on relevant topic, the follo
 
 ### Semiconductor Physics
 
-https://www.youtube.com/watch?v=WouzDaTDZD4
+ Fermi level in intrinsic semiconductor at the middle of the forbidden gap proof:  https://www.youtube.com/watch?v=WouzDaTDZD4
 
-https://www.youtube.com/watch?v=6ShYjai83bA
+ Semiconductor Physics Session 2 (Fermi Level and Fermi Function): https://www.youtube.com/watch?v=6ShYjai83bA
 
+ Semiconductor Physics Session 3 (Conductivity, current density and mobility):  https://www.youtube.com/watch?v=67QXoPW0eE0
 ---
 ### Fair Use & Copyright Notice
 * **Purpose:** This reference is provided exclusively for non-profit, educational use to ensure students facing medical or personal absences do not fall behind.
