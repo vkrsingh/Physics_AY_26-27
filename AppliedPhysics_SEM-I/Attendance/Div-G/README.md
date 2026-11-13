@@ -95,6 +95,13 @@ Trouble Maker: 27
 
 ### Date: 6.10.2026 | (3:00 - 4:00) | Lec. cancelled due to half day schedule
 
+# Week 8
+
+### Date: 12.11.2026 | (11:20 - 12:20) | Given to BEEE as to adjust lec of 30.10.2026
+
+### Date: 13.10.2026 | (3:00 - 4:00) 
+
+
 ## Attendance Record Guidelines
 
 The attendance record is maintained primarily to help students **monitor their attendance regularly**. Students are encouraged to report any discrepancy as soon as possible.
