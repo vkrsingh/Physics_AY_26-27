@@ -102,7 +102,12 @@ Absent Roll no.: 3 7 11 13 14 16 21 23 26 28 32 41 42 44 45 46 48 49 53  55 56 5
 
 ### Date: 12.11.2026 | (2:00 - 3:00)
 Present: 5, 6, 7, 9, 10, 11, 14, 16, 17, 18, 20, 22, 24, 29, 33, 35, 36, 39, 42, 43, 50, 53, 55, 58, 62
+
+### Date: 13.11.2026 | (9:00 - 10:00)
+Absent Roll no.: 2 3 4 11 17 21 22 23 26 29 31 32 34 35 41 44 45 46 48 49 53 55 56 57 59 63 
+
 ---
+
 ## Attendance Record Guidelines
 
 The attendance record is maintained primarily to help students **monitor their attendance regularly**. Students are encouraged to report any discrepancy as soon as possible.
