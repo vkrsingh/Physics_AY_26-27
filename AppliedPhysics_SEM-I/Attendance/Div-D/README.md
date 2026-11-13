@@ -118,7 +118,10 @@ Trouble Maker: 42 10 12
 
 # Week 8 | Mon - Wed: Diwali vacation week
 
-### Date: 13.10.2026 | (2:00 - 3:00 ) 
+### Date: 12.11.2026 | (4:00 - 5:00 ) | Extra lec taken from UHV
+**Present Roll Numbers:** 1, 3, 6, 7, 8, 11, 13, 13, 15, 17, 18, 19, 20, 23, 26, 28, 29, 33, 34, 36, 37, 38, 40, 41, 47, 48, 54, 56, 57, 61, 62, 63
+
+### Date: 13.11.2026 | (2:00 - 3:00 ) 
 **Absent Roll Numbers:**
 
 # Week 9
@@ -129,12 +132,9 @@ Trouble Maker: 42 10 12
 ### Date: 18.11.2026 | (4:00 - 5:00) 
 **Absent Roll Numbers:** 
 
-
-### Date: 20.10.2026 | (11:00 - 12:00 ) | Extra Lec. taken from AC
+### Date: 20.11.2026 | (11:00 - 12:00 ) | Extra Lec. taken from AC
 **Absent Roll Numbers:** 
 
-### Date: 6.10.2026 | (2:00 - 3:00 ) 
-**Absent Roll Numbers:** 
 
 ---
 
