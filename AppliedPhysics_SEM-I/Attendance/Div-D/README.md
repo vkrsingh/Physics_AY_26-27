@@ -127,7 +127,7 @@ Trouble Maker: 42 10 12
 # Week 9
 
 ### Date: 16.11.2026 | (11:20 - 12:20 ) 
-**Absent Roll Numbers:** 
+**Absent Roll Numbers:** 17 22 32 35 37 51 53 60
 
 ### Date: 18.11.2026 | (4:00 - 5:00) 
 **Absent Roll Numbers:** 
