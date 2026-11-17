@@ -135,7 +135,7 @@ Given to CP due to medical leave
 
 # Week 12: 
 ### Date: 17.11.2026 | (12:20 - 1:20) | EM compensation of lec on 3.11.2026 
-**Absent Roll Numbers:**
+**Absent Roll Numbers:** 6 11 18 19 20   
 
 ### Date: 18.11.2026 |  (12:20 - 1:20) 
 
