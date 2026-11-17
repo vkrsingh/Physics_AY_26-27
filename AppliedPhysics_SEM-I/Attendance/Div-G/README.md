@@ -89,11 +89,11 @@ Roll: 5 39 42 48  57 58 59
 ### Date: 3.11.2026 | (11:20 - 12:20) 
 26 32 34 49 51 57 61
 
-### Date: 5.10.2026 | (3:00 - 4:00) 
+### Date: 5.11.2026 | (3:00 - 4:00) 
 4 6 11 12 26 32 37 42 48 49 52 53 54 57 
 Trouble Maker: 27 
 
-### Date: 6.10.2026 | (3:00 - 4:00) | Lec. cancelled due to half day schedule
+### Date: 6.11.2026 | (3:00 - 4:00) | Lec. cancelled due to half day schedule
 
 # Week 8
 
