@@ -134,11 +134,15 @@ Given to CP due to medical leave
 # Week 11 | Diwali Vacation
 
 # Week 12: 
+
 ### Date: 17.11.2026 | (12:20 - 1:20) | EM compensation of lec on 3.11.2026 
 **Absent Roll Numbers:** 6 11 18 19 20   
 
-### Date: 18.11.2026 |  (12:20 - 1:20) 
+### Date: 18.11.2026 |  (10:05 - 11:05) | Extra UHV Lecture 
+**Absent Roll Numbers:** 6 10 11 12 43 48 50 54 60 
 
+### Date: 18.11.2026 |  (12:20 - 1:20) 
+**Absent Roll Numbers:** 6 10 11 12 50 52 54 60 
 
 ---
 
