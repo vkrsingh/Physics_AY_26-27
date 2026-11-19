@@ -110,11 +110,11 @@ Absent Roll no.: 2 3 4 11 17 21 22 23 26 29 31 32 34 35 41 44 45 46 48 49 53 55 
 
 # Week 10
 
-### Date: 16.11.2026 | (12:20 - 1:20)
+### Date: 16.11.2026 | (12:20 - 1:20) | Given to PCE for syllabus completion
 Absent Roll no.:
 
-### Date: 19.11.2026 | (2:00 - 3:00)
-Absent Roll no.: 
+### Date: 19.11.2026 | (2:00 - 3:00) | 
+Absent Roll no.: 3 19 24 25 29 33 44 45 48 55 56 58 
 
 ### Date: 20.11.2026 | (9:00 - 10:00)
 Absent Roll no.:
