@@ -108,6 +108,12 @@ Trouble Maker: 27
 ### Date: 17.11.2026 | (10:05 - 11:05)  
 2 6 11 17 19 20 23 26 32 37 38 39 42 45 49 50 56 57 58 60 61
 
+### Date: 19.11.2026 | (11:20 - 12:20)  
+9 51 52 57 
+
+### Date: 19.11.2026 | (12:20 - 1:20) | Extra  BEEE Lec 
+9 51 52 57 
+
 ## Attendance Record Guidelines
 
 The attendance record is maintained primarily to help students **monitor their attendance regularly**. Students are encouraged to report any discrepancy as soon as possible.
